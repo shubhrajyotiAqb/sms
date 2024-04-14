@@ -1,4 +1,4 @@
-<p>Student Management System</p>
+<h3>Student Management System</h3>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
