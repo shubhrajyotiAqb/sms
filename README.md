@@ -1,1 +1,1 @@
-# sms
+# sms Student management software
