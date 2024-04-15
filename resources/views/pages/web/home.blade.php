@@ -6,7 +6,7 @@
     <br/><br/><br/>
     <img src="{{asset('assets/img/web/home_page_banner1.jpg')}}" alt=""  width="100%">
     <h1 class='text-danger'>My Demo School</h1>
-    <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+    <p class="lead">Use this document as a way to quickly start any new project using bootstrap.<br> All you get is this text and a mostly barebones HTML document.</p>
 </div>
 
 
